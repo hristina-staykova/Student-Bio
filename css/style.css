@@ -1,7 +1,7 @@
 body {
     background: #efeee7;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-display: #333333;
+    color: #333333;
     margin: 0;
     padding: 0;
     line-height: 1.5;
@@ -15,7 +15,7 @@ header {
 h1 {
     font-size: 28px;
     margin: 0;
-    font-display: #eee;
+    color: #eee;
 }
 
 h2 {
